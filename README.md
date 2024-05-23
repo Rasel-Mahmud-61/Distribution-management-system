@@ -12,7 +12,7 @@ Customers enjoy a user-friendly interface that allows for hassle-free signup and
 
 With a focus on functionality and user satisfaction, our Distributor Management Website aims to optimize distribution processes while delivering a seamless experience for both distributors and customers alike.
 
- **Here, I have used HTML,CSS ,Javascript for frontend and NodeJS for backend. Beside I have used mySQL as a database.**
+ 
 
  ## ✍️Technologies
 
