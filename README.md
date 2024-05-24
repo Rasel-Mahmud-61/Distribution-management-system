@@ -2,7 +2,7 @@
  
  
   
-## 👉 Indroduction 
+## 👉 Introduction  
 
 Introducing our Distribution  Management Website, a robust platform designed to streamline operations for distributors and enhance customer experiences. Our website offers seamless signup and signin processes for both distributors and customers, ensuring easy access to the platform's features.
 
